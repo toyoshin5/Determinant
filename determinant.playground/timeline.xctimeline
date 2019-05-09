@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Toyoshin/Documents/XcodePlayground/_SwiftARKit/_Playground/determinant.playground#CharacterRangeLen=20&amp;CharacterRangeLoc=879&amp;EndingColumnNumber=0&amp;EndingLineNumber=40&amp;StartingColumnNumber=1&amp;StartingLineNumber=39&amp;Timestamp=579107675.755752"
+         lockedSize = "{210, 135}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Toyoshin/Documents/XcodePlayground/_SwiftARKit/_Playground/determinant.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=717&amp;EndingColumnNumber=0&amp;EndingLineNumber=29&amp;StartingColumnNumber=9&amp;StartingLineNumber=28&amp;Timestamp=579107675.75589"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
